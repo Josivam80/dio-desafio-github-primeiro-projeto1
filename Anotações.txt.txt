@@ -1,0 +1,2 @@
+Link para downloads do Git: https://github.com/Josivam80/dio-desafio-github-primeiro-projeto1.git
+O Git Bash é um terminal estendido para otimizar o uso do Git.	
